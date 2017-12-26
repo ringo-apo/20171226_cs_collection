@@ -4,3 +4,9 @@ D:\data\develop\making\20171226_cs_collection\ConsoleApp1\ConsoleApp1\bin\Debug\
 D:\data\develop\making\20171226_cs_collection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
 D:\data\develop\making\20171226_cs_collection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\data\develop\making\20171226_cs_collection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\data\develop\complete\20171226_cs_collection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\data\develop\complete\20171226_cs_collection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\data\develop\complete\20171226_cs_collection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\data\develop\complete\20171226_cs_collection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\data\develop\complete\20171226_cs_collection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\data\develop\complete\20171226_cs_collection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
