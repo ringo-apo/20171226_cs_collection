@@ -4,4 +4,4 @@ ArrayList,Listの使い方
   
 実行するとArrayList,Listでリスト表示します。  
   
-![20171226](https://user-images.githubusercontent.com/5728999/34344005-69f7c85c-ea23-11e7-8dde-061add75caac.png)
+![20171226_10](https://user-images.githubusercontent.com/5728999/34344194-58ec21f4-ea26-11e7-933d-937da6668f76.png)
